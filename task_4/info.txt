@@ -1,0 +1,8 @@
+BodiesStoreSize=2000
+EnginesStoreSize=2000
+AccessoriesStoreSize=2000
+CarsStoreSize=2000
+AccessorySuppliersNumber=5
+WorkersNumber=10
+DealersNumber=10
+Logging=true

@@ -1,0 +1,1115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-04-02T17:13:02</date>
+  <millis>1396433582995</millis>
+  <sequence>0</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>36</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{1}: Auto[7]: (Body: [2], Engine: [0], Accessory: [1])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:03</date>
+  <millis>1396433583213</millis>
+  <sequence>1</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>43</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{8}: Auto[10]: (Body: [9], Engine: [8], Accessory: [6])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:03</date>
+  <millis>1396433583273</millis>
+  <sequence>2</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>42</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{7}: Auto[13]: (Body: [12], Engine: [11], Accessory: [5])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:03</date>
+  <millis>1396433583296</millis>
+  <sequence>3</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>41</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{6}: Auto[17]: (Body: [16], Engine: [14], Accessory: [4])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:03</date>
+  <millis>1396433583304</millis>
+  <sequence>4</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>35</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{0}: Auto[24]: (Body: [23], Engine: [22], Accessory: [3])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:03</date>
+  <millis>1396433583349</millis>
+  <sequence>5</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>37</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{2}: Auto[28]: (Body: [27], Engine: [25], Accessory: [15])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:03</date>
+  <millis>1396433583357</millis>
+  <sequence>6</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>40</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{5}: Auto[36]: (Body: [35], Engine: [29], Accessory: [18])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:03</date>
+  <millis>1396433583410</millis>
+  <sequence>7</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>39</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{4}: Auto[39]: (Body: [38], Engine: [34], Accessory: [19])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:03</date>
+  <millis>1396433583434</millis>
+  <sequence>8</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>38</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{3}: Auto[43]: (Body: [42], Engine: [37], Accessory: [20])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:03</date>
+  <millis>1396433583444</millis>
+  <sequence>9</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>44</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{9}: Auto[50]: (Body: [49], Engine: [41], Accessory: [21])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:05</date>
+  <millis>1396433585011</millis>
+  <sequence>10</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>36</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{1}: Auto[55]: (Body: [53], Engine: [48], Accessory: [26])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:05</date>
+  <millis>1396433585278</millis>
+  <sequence>11</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>42</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{7}: Auto[63]: (Body: [62], Engine: [51], Accessory: [30])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:05</date>
+  <millis>1396433585365</millis>
+  <sequence>12</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>40</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{5}: Auto[68]: (Body: [67], Engine: [54], Accessory: [31])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:05</date>
+  <millis>1396433585397</millis>
+  <sequence>13</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>43</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{8}: Auto[77]: (Body: [75], Engine: [59], Accessory: [32])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:05</date>
+  <millis>1396433585413</millis>
+  <sequence>14</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>41</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{6}: Auto[83]: (Body: [82], Engine: [64], Accessory: [33])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:05</date>
+  <millis>1396433585430</millis>
+  <sequence>15</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>37</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{2}: Auto[89]: (Body: [87], Engine: [65], Accessory: [40])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:05</date>
+  <millis>1396433585443</millis>
+  <sequence>16</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>38</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{3}: Auto[94]: (Body: [93], Engine: [69], Accessory: [44])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:05</date>
+  <millis>1396433585455</millis>
+  <sequence>17</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>35</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{0}: Auto[100]: (Body: [99], Engine: [73], Accessory: [45])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:05</date>
+  <millis>1396433585480</millis>
+  <sequence>18</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>39</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{4}: Auto[108]: (Body: [107], Engine: [80], Accessory: [46])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:05</date>
+  <millis>1396433585518</millis>
+  <sequence>19</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>44</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{9}: Auto[114]: (Body: [112], Engine: [81], Accessory: [47])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:07</date>
+  <millis>1396433587014</millis>
+  <sequence>20</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>36</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{1}: Auto[120]: (Body: [116], Engine: [86], Accessory: [52])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:07</date>
+  <millis>1396433587281</millis>
+  <sequence>21</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>42</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{7}: Auto[125]: (Body: [124], Engine: [91], Accessory: [56])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:07</date>
+  <millis>1396433587412</millis>
+  <sequence>22</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>40</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{5}: Auto[138]: (Body: [137], Engine: [95], Accessory: [57])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:07</date>
+  <millis>1396433587460</millis>
+  <sequence>23</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>38</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{3}: Auto[143]: (Body: [142], Engine: [98], Accessory: [58])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:07</date>
+  <millis>1396433587491</millis>
+  <sequence>24</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>43</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{8}: Auto[151]: (Body: [150], Engine: [101], Accessory: [60])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:07</date>
+  <millis>1396433587499</millis>
+  <sequence>25</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>41</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{6}: Auto[154]: (Body: [153], Engine: [103], Accessory: [61])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:07</date>
+  <millis>1396433587527</millis>
+  <sequence>26</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>44</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{9}: Auto[163]: (Body: [162], Engine: [110], Accessory: [66])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:07</date>
+  <millis>1396433587565</millis>
+  <sequence>27</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>37</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{2}: Auto[166]: (Body: [165], Engine: [111], Accessory: [70])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:07</date>
+  <millis>1396433587580</millis>
+  <sequence>28</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>35</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{0}: Auto[171]: (Body: [168], Engine: [115], Accessory: [71])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:07</date>
+  <millis>1396433587588</millis>
+  <sequence>29</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>39</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{4}: Auto[177]: (Body: [176], Engine: [119], Accessory: [72])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:09</date>
+  <millis>1396433589015</millis>
+  <sequence>30</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>36</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{1}: Auto[180]: (Body: [179], Engine: [123], Accessory: [76])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:09</date>
+  <millis>1396433589299</millis>
+  <sequence>31</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>42</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{7}: Auto[185]: (Body: [184], Engine: [126], Accessory: [78])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:09</date>
+  <millis>1396433589445</millis>
+  <sequence>32</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>40</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{5}: Auto[191]: (Body: [190], Engine: [129], Accessory: [79])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:09</date>
+  <millis>1396433589476</millis>
+  <sequence>33</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>38</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{3}: Auto[195]: (Body: [194], Engine: [130], Accessory: [74])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:09</date>
+  <millis>1396433589510</millis>
+  <sequence>34</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>43</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{8}: Auto[200]: (Body: [199], Engine: [131], Accessory: [84])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:09</date>
+  <millis>1396433589513</millis>
+  <sequence>35</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>41</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{6}: Auto[207]: (Body: [205], Engine: [139], Accessory: [85])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:09</date>
+  <millis>1396433589599</millis>
+  <sequence>36</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>37</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{2}: Auto[211]: (Body: [210], Engine: [140], Accessory: [88])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:09</date>
+  <millis>1396433589612</millis>
+  <sequence>37</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>44</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{9}: Auto[216]: (Body: [215], Engine: [141], Accessory: [90])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:09</date>
+  <millis>1396433589642</millis>
+  <sequence>38</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>35</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{0}: Auto[222]: (Body: [221], Engine: [148], Accessory: [92])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:09</date>
+  <millis>1396433589700</millis>
+  <sequence>39</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>39</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{4}: Auto[227]: (Body: [226], Engine: [152], Accessory: [96])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:11</date>
+  <millis>1396433591073</millis>
+  <sequence>40</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>36</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{1}: Auto[291]: (Body: [234], Engine: [155], Accessory: [97])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:11</date>
+  <millis>1396433591320</millis>
+  <sequence>41</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>42</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{7}: Auto[292]: (Body: [237], Engine: [158], Accessory: [102])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:11</date>
+  <millis>1396433591448</millis>
+  <sequence>42</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>40</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{5}: Auto[293]: (Body: [243], Engine: [164], Accessory: [104])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:11</date>
+  <millis>1396433591493</millis>
+  <sequence>43</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>38</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{3}: Auto[294]: (Body: [248], Engine: [167], Accessory: [106])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:11</date>
+  <millis>1396433591550</millis>
+  <sequence>44</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>43</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{8}: Auto[295]: (Body: [250], Engine: [175], Accessory: [105])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:11</date>
+  <millis>1396433591561</millis>
+  <sequence>45</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>41</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{6}: Auto[298]: (Body: [263], Engine: [189], Accessory: [117])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:11</date>
+  <millis>1396433591608</millis>
+  <sequence>46</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>37</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{2}: Auto[299]: (Body: [268], Engine: [192], Accessory: [118])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:11</date>
+  <millis>1396433591646</millis>
+  <sequence>47</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>44</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{9}: Auto[300]: (Body: [271], Engine: [197], Accessory: [121])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:11</date>
+  <millis>1396433591722</millis>
+  <sequence>48</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>35</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{0}: Auto[301]: (Body: [279], Engine: [201], Accessory: [122])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:11</date>
+  <millis>1396433591743</millis>
+  <sequence>49</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>39</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{4}: Auto[302]: (Body: [283], Engine: [204], Accessory: [127])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:13</date>
+  <millis>1396433593074</millis>
+  <sequence>50</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>36</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{1}: Auto[303]: (Body: [286], Engine: [209], Accessory: [128])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:13</date>
+  <millis>1396433593322</millis>
+  <sequence>51</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>42</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{7}: Auto[304]: (Body: [290], Engine: [213], Accessory: [132])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:13</date>
+  <millis>1396433593450</millis>
+  <sequence>52</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>40</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{5}: Auto[297]: (Body: [259], Engine: [183], Accessory: [113])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:13</date>
+  <millis>1396433593495</millis>
+  <sequence>53</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>38</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{3}: Auto[296]: (Body: [257], Engine: [178], Accessory: [109])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:13</date>
+  <millis>1396433593559</millis>
+  <sequence>54</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>43</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{8}: Auto[309]: (Body: [308], Engine: [217], Accessory: [133])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:13</date>
+  <millis>1396433593580</millis>
+  <sequence>55</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>41</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{6}: Auto[315]: (Body: [314], Engine: [223], Accessory: [135])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:13</date>
+  <millis>1396433593647</millis>
+  <sequence>56</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>44</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{9}: Auto[320]: (Body: [319], Engine: [225], Accessory: [134])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:13</date>
+  <millis>1396433593670</millis>
+  <sequence>57</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>37</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{2}: Auto[327]: (Body: [326], Engine: [228], Accessory: [136])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:13</date>
+  <millis>1396433593729</millis>
+  <sequence>58</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>35</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{0}: Auto[330]: (Body: [329], Engine: [233], Accessory: [144])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:13</date>
+  <millis>1396433593757</millis>
+  <sequence>59</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>39</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{4}: Auto[336]: (Body: [335], Engine: [236], Accessory: [145])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:15</date>
+  <millis>1396433595078</millis>
+  <sequence>60</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>36</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{1}: Auto[443]: (Body: [340], Engine: [238], Accessory: [146])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:15</date>
+  <millis>1396433595327</millis>
+  <sequence>61</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>42</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{7}: Auto[444]: (Body: [344], Engine: [242], Accessory: [147])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:15</date>
+  <millis>1396433595452</millis>
+  <sequence>62</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>40</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{5}: Auto[445]: (Body: [349], Engine: [246], Accessory: [149])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:15</date>
+  <millis>1396433595500</millis>
+  <sequence>63</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>38</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{3}: Auto[446]: (Body: [351], Engine: [247], Accessory: [156])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:15</date>
+  <millis>1396433595570</millis>
+  <sequence>64</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>43</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{8}: Auto[447]: (Body: [355], Engine: [249], Accessory: [157])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:15</date>
+  <millis>1396433595593</millis>
+  <sequence>65</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>41</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{6}: Auto[448]: (Body: [360], Engine: [254], Accessory: [159])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:15</date>
+  <millis>1396433595650</millis>
+  <sequence>66</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>44</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{9}: Auto[449]: (Body: [362], Engine: [258], Accessory: [160])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:15</date>
+  <millis>1396433595673</millis>
+  <sequence>67</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>37</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{2}: Auto[450]: (Body: [367], Engine: [260], Accessory: [161])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:15</date>
+  <millis>1396433595731</millis>
+  <sequence>68</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>35</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{0}: Auto[451]: (Body: [371], Engine: [265], Accessory: [169])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:15</date>
+  <millis>1396433595759</millis>
+  <sequence>69</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>39</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{4}: Auto[452]: (Body: [379], Engine: [269], Accessory: [170])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:17</date>
+  <millis>1396433597080</millis>
+  <sequence>70</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>36</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{1}: Auto[453]: (Body: [383], Engine: [270], Accessory: [172])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:17</date>
+  <millis>1396433597332</millis>
+  <sequence>71</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>42</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{7}: Auto[454]: (Body: [389], Engine: [274], Accessory: [173])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:17</date>
+  <millis>1396433597455</millis>
+  <sequence>72</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>40</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{5}: Auto[455]: (Body: [392], Engine: [278], Accessory: [174])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:17</date>
+  <millis>1396433597505</millis>
+  <sequence>73</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>38</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{3}: Auto[457]: (Body: [396], Engine: [280], Accessory: [181])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:17</date>
+  <millis>1396433597572</millis>
+  <sequence>74</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>43</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{8}: Auto[458]: (Body: [412], Engine: [316], Accessory: [182])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:17</date>
+  <millis>1396433597597</millis>
+  <sequence>75</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>41</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{6}: Auto[459]: (Body: [408], Engine: [311], Accessory: [186])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:17</date>
+  <millis>1396433597652</millis>
+  <sequence>76</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>44</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{9}: Auto[460]: (Body: [373], Engine: [307], Accessory: [187])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:17</date>
+  <millis>1396433597682</millis>
+  <sequence>77</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>37</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{2}: Auto[462]: (Body: [400], Engine: [285], Accessory: [188])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:17</date>
+  <millis>1396433597735</millis>
+  <sequence>78</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>35</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{0}: Auto[463]: (Body: [414], Engine: [321], Accessory: [193])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:17</date>
+  <millis>1396433597761</millis>
+  <sequence>79</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>39</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{4}: Auto[464]: (Body: [403], Engine: [289], Accessory: [196])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:19</date>
+  <millis>1396433599083</millis>
+  <sequence>80</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>36</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{1}: Auto[608]: (Body: [419], Engine: [324], Accessory: [198])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:19</date>
+  <millis>1396433599334</millis>
+  <sequence>81</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>42</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{7}: Auto[609]: (Body: [423], Engine: [328], Accessory: [202])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:19</date>
+  <millis>1396433599457</millis>
+  <sequence>82</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>40</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{5}: Auto[610]: (Body: [427], Engine: [333], Accessory: [203])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:19</date>
+  <millis>1396433599510</millis>
+  <sequence>83</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>38</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{3}: Auto[611]: (Body: [431], Engine: [339], Accessory: [206])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:19</date>
+  <millis>1396433599574</millis>
+  <sequence>84</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>43</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{8}: Auto[612]: (Body: [434], Engine: [343], Accessory: [208])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:19</date>
+  <millis>1396433599612</millis>
+  <sequence>85</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>41</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{6}: Auto[613]: (Body: [438], Engine: [346], Accessory: [212])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:19</date>
+  <millis>1396433599653</millis>
+  <sequence>86</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>44</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{9}: Auto[614]: (Body: [442], Engine: [350], Accessory: [214])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:19</date>
+  <millis>1396433599685</millis>
+  <sequence>87</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>37</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{2}: Auto[615]: (Body: [469], Engine: [357], Accessory: [218])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:19</date>
+  <millis>1396433599737</millis>
+  <sequence>88</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>35</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{0}: Auto[616]: (Body: [473], Engine: [361], Accessory: [220])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:19</date>
+  <millis>1396433599763</millis>
+  <sequence>89</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>39</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{4}: Auto[617]: (Body: [476], Engine: [365], Accessory: [219])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:21</date>
+  <millis>1396433601086</millis>
+  <sequence>90</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>36</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{1}: Auto[618]: (Body: [480], Engine: [370], Accessory: [224])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:21</date>
+  <millis>1396433601336</millis>
+  <sequence>91</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>42</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{7}: Auto[619]: (Body: [484], Engine: [372], Accessory: [229])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:21</date>
+  <millis>1396433601459</millis>
+  <sequence>92</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>40</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{5}: Auto[620]: (Body: [487], Engine: [377], Accessory: [230])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:21</date>
+  <millis>1396433601511</millis>
+  <sequence>93</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>38</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{3}: Auto[621]: (Body: [491], Engine: [381], Accessory: [231])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:21</date>
+  <millis>1396433601576</millis>
+  <sequence>94</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>43</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{8}: Auto[622]: (Body: [495], Engine: [382], Accessory: [232])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:21</date>
+  <millis>1396433601615</millis>
+  <sequence>95</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>41</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{6}: Auto[623]: (Body: [498], Engine: [387], Accessory: [235])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:21</date>
+  <millis>1396433601659</millis>
+  <sequence>96</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>44</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{9}: Auto[624]: (Body: [502], Engine: [391], Accessory: [239])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:21</date>
+  <millis>1396433601688</millis>
+  <sequence>97</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>37</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{2}: Auto[625]: (Body: [506], Engine: [395], Accessory: [241])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:21</date>
+  <millis>1396433601740</millis>
+  <sequence>98</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>35</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{0}: Auto[626]: (Body: [465], Engine: [354], Accessory: [240])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:21</date>
+  <millis>1396433601766</millis>
+  <sequence>99</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>39</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{4}: Auto[627]: (Body: [509], Engine: [398], Accessory: [244])</message>
+</record>
+<record>
+  <date>2014-04-02T17:13:23</date>
+  <millis>1396433603088</millis>
+  <sequence>100</sequence>
+  <logger>ru.nsu.ccfit.khassina.factory.Dealer</logger>
+  <level>INFO</level>
+  <class>ru.nsu.ccfit.khassina.factory.Dealer</class>
+  <method>run</method>
+  <thread>36</thread>
+  <message>[Wed Apr 02 17:13:02 GMT+07:00 2014]: Dealer{1}: Auto[678]: (Body: [513], Engine: [402], Accessory: [245])</message>
+</record>
+</log>
